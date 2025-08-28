@@ -22,7 +22,7 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=janidup2003&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ 
 ![](https://nirzak-streak-stats.vercel.app/?user=janidup2003&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=janidup2003&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
