@@ -99,6 +99,8 @@
 <div align="center">
   
 [![](https://visitcount.itsvg.in/api?id=janidup2003&icon=3&color=6)](https://visitcount.itsvg.in)
+
+<img src="https://komarev.com/ghpvc/?username=JaniduP2003&label=Profile%20views&color=0e75b6&style=flat" alt="JaniduP2003" />
   
 </div>
 
