@@ -10,11 +10,30 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<! --- ASCII Art Name with Terminal Theme -->
+<pre align="center">
+<span style="color:#00ff00">janidu@github</span>:<span style="color:#0080ff">~</span>$ ./introduce.sh
+
+     ██╗ █████╗ ███╗   ██╗██╗██████╗ ██╗   ██╗
+     ██║██╔══██╗████╗  ██║██║██╔══██╗██║   ██║
+     ██║███████║██╔██╗ ██║██║██║  ██║██║   ██║
+██   ██║██╔══██║██║╚██╗██║██║██║  ██║██║   ██║
+╚█████╔╝██║  ██║██║ ╚████║██║██████╔╝╚██████╔╝
+ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═════╝  ╚═════╝ 
+                                                 
+██████╗  █████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗  █████╗ 
+██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗
+██████╔╝███████║██████╔╝███████║███████╗███████║██████╔╝███████║
+██╔═══╝ ██╔══██║██╔══██╗██╔══██║╚════██║██╔══██║██╔══██╗██╔══██║
+██║     ██║  ██║██████╔╝██║  ██║███████║██║  ██║██║  ██║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+
+<span style="color:#00ff00">janidu@github</span>:<span style="color:#0080ff">~</span>$ cat specialties.txt
+<span style="color:#ff00ff">►</span> High-Performance Computing with C & CUDA
+<span style="color:#ff00ff">►</span> Enterprise Applications with .NET
+<span style="color:#ff00ff">►</span> GPU-Accelerated Programming
+<span style="color:#ff00ff">►</span> System-Level Programming
+</pre>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
