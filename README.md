@@ -32,8 +32,11 @@
 <span style="color:#ff00ff">►</span> High-Performance Computing with C & CUDA
 <span style="color:#ff00ff">►</span> Enterprise Applications with .NET
 <span style="color:#ff00ff">►</span> GPU-Accelerated Programming
-<span style="color:#ff00ff">►</span> System-Level Programming
 </pre>
+
+<div align="center">
+  <img src="terminal.gif" alt="Terminal Animation" />
+</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
